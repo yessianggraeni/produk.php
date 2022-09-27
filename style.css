@@ -1,0 +1,16 @@
+.nav{
+    display:flex;
+    justify-content:space-between;
+    background-color:rgb(214,206,206);
+}
+.menu kiri{
+    padding left:20px;
+}
+.menu kanan ul{
+    display:flex;
+    list-style:none;
+    padding:10px;
+}
+.menu-kanan ul li{
+    padding-right:50px;
+}
